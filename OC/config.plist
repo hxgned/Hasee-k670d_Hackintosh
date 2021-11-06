@@ -1063,8 +1063,6 @@
 				<string>-v nv_disable=1 darkwake=8  keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
-				<key>nvda_drv</key>
-				<data>MQ==</data>
 				<key>prev-lang:kbd</key>
 				<data>emgtSGFuczoyNTI=</data>
 				<key>SystemAudioVolume</key>
@@ -1101,7 +1099,6 @@
 				<string>bluetoothInternalControllerInfo</string>
 				<string>flagstate</string>
 				<string>fmm-computer-name</string>
-				<string>nvda_drv</string>
 				<string>prev-lang:kbd</string>
 				<string>efi-boot-device</string>
 				<string>efi-boot-device-data</string>
