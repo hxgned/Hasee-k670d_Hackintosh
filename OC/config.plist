@@ -1109,7 +1109,7 @@
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02806310QXHWVP1F</string>
+			<string>C02905300CDJH4RFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1119,11 +1119,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W7EZ0HV29</string>
+			<string>C02Y6QZCJHCC</string>
 			<key>SystemUUID</key>
-			<string>6FB96A0E-FC8E-449E-BA62-9EF18B4DBBA6</string>
+			<string>34A24563-067D-4AC4-BF62-C7D07C44E7C4</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
