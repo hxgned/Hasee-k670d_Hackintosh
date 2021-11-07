@@ -374,9 +374,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>ACPIBatteryManager.kext</string>
+				<string>ACPIBatteryManager_1.81.4.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -390,7 +390,6 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
-			
 			<dict>
 				<key>Arch</key>
 				<string>x86_64</string>
