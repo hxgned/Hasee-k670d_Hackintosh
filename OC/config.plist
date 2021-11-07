@@ -1039,7 +1039,7 @@
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
 				<key>boot-args</key>
-				<string>nv_disable=1 darkwake=8 keepsyms=1</string>
+				<string>-v nv_disable=1 darkwake=8 keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
