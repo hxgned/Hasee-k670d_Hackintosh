@@ -874,7 +874,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -883,7 +883,7 @@
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
-			<string>Auto</string>
+			<string>x86_64</string>
 			<key>KernelCache</key>
 			<string>Auto</string>
 		</dict>
@@ -980,7 +980,7 @@
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>6</integer>
+			<integer>2</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
@@ -1085,7 +1085,7 @@
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>cnUtUlU6MjUy</data>
+				<data>emgtSGFuczoyNTI=</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
