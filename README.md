@@ -1,6 +1,47 @@
-# Hasee K670D Hackintosh
+# HASEE K670D Hackintosh
 
-## #前言
+
+
+## Hardware spec:
+
+- Model: K670D G4E6 W650KJ1/KK1
+- CPU: **CORE I3-9100**
+- RAM: 16G DDR4 2400
+- HDD: Stock Hynix SATA Drive
+- Graphic: Intel UHD 630 && NVIDIA GTX 1050 (Disabled with SSDT patch)
+- WIFI&&BT: Intel stock
+- LAN: Realtek 
+
+
+
+## TODO:
+
+- [x] update Kexts to latest
+- [x] update OC
+- [x] fix sleep issue (instant wake)
+- [ ] fix battery && AC status (sometimes charger cannot be detected when power on with full battery)
+- [ ] replace Appleps2smarttouchpad with VoodooPS2 (Apples2smarttouchpad should be deprecated)
+
+
+## History: 
+
+**[2021/11/06]** update to OC 0.6.5 with MacOS 10.14.6
+
+
+**[2021/11/07]** update Kexts && config update
+
+
+**[2021/11/08]** fix sleep issue with USB port patch
+
+**[2021/11/13]** update to OC 0.7.5 && update OS to 10.15.7
+
+
+
+## #Original author：https://github.com/cc336625 credit && thanks to his work!
+
+
+
+## #前言 
 
 这款机子前前后后不知道折腾了多少个日夜，从一个完全不知道如何配置的小白慢慢的，变得越来熟练，其中经历了很多，也收获满满。
 
@@ -54,7 +95,7 @@ BIOS中关闭CFG锁
 -- 使用opencore引导，更上时代的潮流
 
    主要是很多最新插件慢慢的直接集成代opencore里了
- 
+
  -- 使用opencore引导，变频直接最大睿频，插适配器一直显示电池问题
 
 
