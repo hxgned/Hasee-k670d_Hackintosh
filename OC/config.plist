@@ -8,6 +8,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-Cpu0Ist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-Cpu0Ist.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-DDGPU_V2</string>
 				<key>Enabled</key>
 				<true/>
@@ -1073,7 +1081,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1</string>
+				<string>keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
