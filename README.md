@@ -5,12 +5,15 @@
 ## Hardware spec:
 
 - Model: K670D G4E6 W650KJ1/KK1
-- CPU: **CORE I3-9100**
-- RAM: 16G DDR4 2400
-- HDD: Stock Hynix SATA Drive
-- Graphic: Intel UHD 630 && NVIDIA GTX 1050 (Disabled with SSDT patch)
-- WIFI&&BT: Intel stock
-- LAN: Realtek 
+
+| Hardware    | Model                            |
+| ----------- | -------------------------------- |
+| CPU         | Intel CORE I3-9100               |
+| RAM         | Micron DDR4 2400 8G * 2          |
+| HDD         | HFS256G39TNH-73A0A               |
+| Graphic     | Intel UHD 630                    |
+| Wi-Fi && BT | Intel Dual Band Wireless AC 3160 |
+| LAN         | RTL8111                          |
 
 
 
@@ -21,6 +24,8 @@
 - [x] fix sleep issue (instant wake)
 - [ ] fix battery && AC status (sometimes charger cannot be detected when power on with full battery)
 - [ ] replace Appleps2smarttouchpad with VoodooPS2 (Apples2smarttouchpad should be deprecated)
+
+
 
 
 ## History: 
