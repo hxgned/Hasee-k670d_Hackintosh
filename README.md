@@ -42,4 +42,6 @@
 
 
 
-## #Original author：https://github.com/cc336625 credit && thanks to his work!
+## Original author: 
+
+**https://github.com/cc336625 credit && thanks to his work!**
